@@ -20,14 +20,14 @@
 # result = PI # ERROR
 # print(result)
 
-
-from mymath import * # Not recommended
+from math_utils.mymath import add # Not recommended
+from math_utils.geometry import PI # Not recommended
 
 result = add(3, 4)
 print(result)
 
-result = subtract(3, 4)
-print(result)
+# result = subtract(3, 4) # ERROR
+# print(result)
 
 result = PI
 print(result)

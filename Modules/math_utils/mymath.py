@@ -1,5 +1,3 @@
-PI = 3.1416
-
 def add(a, b):
     return a + b
 
