@@ -1,4 +1,4 @@
-letter = ' '
+letter = ''
 value = ord(letter) # For getting ASCII value
 
 

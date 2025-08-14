@@ -3,36 +3,52 @@
 ## Beginner Level – Foundations of Python Programming
 
 ### 1. Introduction to Python
-- Installing Python & IDEs (Anaconda, VS Code, Jupyter)
-- Python syntax, variables, and data types
-- Comments and code style (PEP8)
-
-### 2. Basic Data Structures
+- Installing Python & IDEs (PyCharm Community Edition, VScode)
+- Python syntax and Indentation Guideline
+- Python output using `print()`, 
+- Variables, Constant
+- Rules of identifiers and Keywords List
+- Data types
 - Strings and string manipulation
+- Comments and code style (PEP8)
+- `sep()` and `end()`
+- Taking keyboard input using `input()` and Type Casting
+
+### 2. Operator Concept
+- Arithmetic Operator
+- Program of addition, subtractio`n, multiplication, division
+- Relational Operator
+- Logical Operator
+
+### 3. Conditional Control Statement
+- `if`, `elif`, `else` statements
+
+### 4. Loops
+- `for`
+- `break` and `continue`
+- `while`
+
+### 5. Basic Data Structures
 - Lists and list methods
+- List comprehensions
 - Tuples
 - Sets
 - Dictionaries
 
-### 3. Control Flow
-- `if`, `elif`, `else` statements
-- `for` and `while` loops
-- List comprehensions
-
-### 4. Functions and Modules
+### 6. Functions
 - Defining functions
 - Function arguments and return values
 - Lambda functions
 
-### Modules
+### 7. Modules
 - Modules and `import`
 - Writing your own module
 
-### 5. File Handling
+### 8. File Handling
 - Reading/writing text files
 - Working with CSV and JSON
 
-### 6. Error Handling
+### 9. Error Handling
 - Exceptions and try-except blocks
 - Raising exceptions
 - Custom exceptions
@@ -41,7 +57,7 @@
 
 ## 🧰 Intermediate Level – OOP & Libraries
 
-### 7. Object-Oriented Programming (OOP)
+### 10. Object-Oriented Programming (OOP)
 - Classes and objects
 - Instance vs class variables
 - Inheritance and polymorphism
